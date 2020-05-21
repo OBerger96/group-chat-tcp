@@ -2,7 +2,7 @@
 Group chat program, using  socket programming in C, where there is a single server and multiple clients. The server forwards a client's message to all the other clients.
 
 ## Getting Started
-Copy he project to a local directory:
+Copy the project to a local directory:
 Clone with SSH 
 ```
 git@github.com:OBerger96/group-chat-client-server.git

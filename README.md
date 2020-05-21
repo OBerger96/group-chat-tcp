@@ -1,2 +1,53 @@
 # group-chat-client-server
-Group chat program where there is a single server and multiple clients. The server forwards a client's message to all the other clients.
+Group chat program, using  socket programming in C, where there is a single server and multiple clients. The server forwards a client's message to all the other clients.
+
+## Getting Started
+Copy he project to a local directory:
+Clone with SSH 
+```
+git@github.com:OBerger96/group-chat-client-server.git
+```
+Clone with HTTPS
+```
+https://github.com/OBerger96/group-chat-client-server.git
+```
+<b>Platform:</b> Linux with GCC compiler
+
+## To Run the project
+Make a directory.
+```
+mkdir name_dir
+```
+Put server.c in the directory.
+```
+mv from_dir/server.c to_dir/server.c
+```
+Put client.c in the directory.
+```
+mv from_dir/client.c to_dir/client.c
+```
+Compile server.c program.
+```
+gcc server.c -o server.out -pthread
+```
+Compile client.c program.
+```
+gcc client.c -o client.out -pthread
+```
+Run the server.
+```
+./server.out & port_number
+```
+Run the client.
+```
+./client.out username port_number
+```
+<b>Stopping the clients and server:</b> CTRL-D
+
+<b>Note:</b> The portnumber provided to clients should be same as the one given to server. Username is just an identity of yourself.
+
+## Screenshots
+![screenshot](https://github.com/OBerger96/group-chat-client-server/blob/master/images/group-chat-Client-Server0.jpg)
+
+## Author
+* **Omer Berger** - [group-chat-Client-Server]()

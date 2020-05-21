@@ -51,4 +51,4 @@ Run the client.
 ![screenshot](https://github.com/OBerger96/group-chat-client-server/blob/master/images/group-chat-Client-Server0.jpg)
 
 ## Author
-* **Omer Berger** - [group-chat-Client-Server]()
+* **Omer Berger** - [group-chat-Client-Server](https://github.com/OBerger96/group-chat-client-server)

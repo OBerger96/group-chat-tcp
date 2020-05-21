@@ -11,7 +11,7 @@ Clone with HTTPS
 ```
 https://github.com/OBerger96/group-chat-client-server.git
 ```
-## Platform:
+## Platform
 Linux with GCC compiler
 
 ## To Run the project

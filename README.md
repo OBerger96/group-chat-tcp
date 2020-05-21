@@ -47,7 +47,7 @@ Run the client.
 
 <b>Note:</b> The portnumber provided to clients should be same as the one given to server. Username is just an identity of yourself.
 
-## Screenshots
+## Screenshot
 ![screenshot](https://github.com/OBerger96/group-chat-client-server/blob/master/images/group-chat-Client-Server0.jpg)
 
 ## Author

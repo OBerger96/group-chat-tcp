@@ -1,5 +1,5 @@
 # group-chat-client-server
-Group chat program, using  socket programming in C, where there is a single server and multiple clients. The server forwards a client's message to all the other clients.
+Group chat program, using  socket programming in C , where there is a single server and multiple clients. The server forwards a client's message to all the other clients. The Communication between the server and the clients is based on TCP Client/Server Communication.
 
 ## Getting Started
 Copy the project to a local directory:

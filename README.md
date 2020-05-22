@@ -43,8 +43,6 @@ Run the client.
 ```
 ./client.out username port_number
 ```
-<b>Stopping the clients and server:</b> CTRL-D
-
 <b>Note:</b> The portnumber provided to clients should be same as the one given to server. Username is just an identity of yourself.
 
 ## Screenshot

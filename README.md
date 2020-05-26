@@ -49,4 +49,4 @@ Run the client.
 ![screenshot](https://github.com/OBerger96/group-chat-client-server/blob/master/images/group-chat-Client-Server0.jpg)
 
 ## Author
-* **Omer Berger** - [group-chat-Client-Server](https://github.com/OBerger96/group-chat-client-server)
+* **Omer Berger** - [group-chat-tcp](https://github.com/OBerger96/group-chat-tcp)
